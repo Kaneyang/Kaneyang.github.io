@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hungry Scientist Xu Yang</title>
+  
+  <subtitle>Stay curious &amp;&amp; Keep hard working ------ Witness of personal growth</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-01-23T20:32:39.417Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Xu Yang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The first Blog</title>
+    <link href="http://yoursite.com/2018/01/23/The-first-Blog/"/>
+    <id>http://yoursite.com/2018/01/23/The-first-Blog/</id>
+    <published>2018-01-23T17:48:51.000Z</published>
+    <updated>2018-01-23T20:32:39.417Z</updated>
+    
+    <content type="html"><![CDATA[<p>I am a forgetful guy who always forgot something books knowledges i have read or learned few weeks ago. I tried to note down all the important stuffs in a notebook. However, it is hard to search something or arrange and edit the handwriting notes. So i find out that electronic note is maybe a good alternative. It is not only easy to arrange and check, but also easy to share and discuss some specific topics with foreign people all around the world. So <strong>WHY NOT TRY IT!</strong><br><img src="/Images/xu%20in%20london.jpg" alt="xu in london"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;I am a forgetful guy who always forgot something books knowledges i have read or learned few weeks ago. I tried to note down all the impo
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
